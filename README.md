@@ -1,2 +1,2 @@
-# Docking
-Dock the spaceship with ISS using the arrow keys.
+# p5.play-boilerplate
+Boiler plate for p5.play
